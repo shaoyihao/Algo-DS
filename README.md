@@ -5,4 +5,4 @@
 
 ## Reference
 
-- _Introduction to Algorithms_ 4ed, CLRS
+- _Introduction to Algorithms_, CLRS
